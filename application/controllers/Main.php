@@ -25,7 +25,7 @@ class Main extends CI_Controller
 
             $data=array(
                 'Name'=>$post['username'],
-                'Email'=>$post['email'],
+                'Email'=>$post['Email'],
                 'Subject'=>$post['subject'],
                 'Message'=>$post['message']
                 );
@@ -53,7 +53,7 @@ class Main extends CI_Controller
             $post=$this->input->post();
 
             $data=array(
-                'Email'=>$post['email']
+                'Email'=>$post['Email']
                 );
     
             $insertMessage=$this->Message->add_subscriber($data);
