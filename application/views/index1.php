@@ -9,7 +9,7 @@
         <title>Excel work outsource, Simplify Procedures Automate process</title>
 
           <meta name="description" content="Simplify Procedures with Excel tools, outsource excel work">
-          <meta name="keywords" content="Excel, Outsource Excel, Excel Work, Simplify process, simplify procedure, data analyisis, data review, data audit, pivot tables, excel charts, charts, automate procedure, automate process, automate excel">
+          <meta name="keywords" content="Excel, Outsource Excel, Excel Work, Simplify process, simplify procedure, data analyisis, data review, excel process, data audit, pivot tables, excel charts, charts, automate procedure, automate process, automate excel">
           <meta name="author" content="SimplifyProcedures">
 
 
