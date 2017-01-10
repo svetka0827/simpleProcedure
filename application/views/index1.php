@@ -62,7 +62,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <strong class="xp-logo"><a href="#"><img src="assets/images/slider/logo.png" alt="image description"></a></strong>
+        <strong class="xp-logo"><a href="#"><img src="/assets/images/slider/logo.png" alt="image description"></a></strong>
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse" aria-expanded="false"> 
         <ul class="nav navbar-nav navbar-right">
@@ -460,7 +460,7 @@
 
                             <div class="col-md-3 col-sm-6 col-xs-12">
                                 <div class="xp-col">
-                                    <strong class="xp-logo"><a href="#"><img src="assets/images/slider/logoGrey.png" alt="image description"></a></strong>
+                                    <strong class="xp-logo"><a href="#"><img src="/assets/images/slider/logoGrey.png" alt="image description"></a></strong>
                                     <ul class="xp-address">
                                         <li>
                                             <i class="fa fa-envelope"></i>
