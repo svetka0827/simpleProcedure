@@ -7,7 +7,7 @@ class Message extends CI_Model
 
 	public function add_message($data)
 	{
-		$query="INSERT INTO messages
+		$query="INSERT INTO Messages
 						(Name,
 						Email,
 						Subject,
@@ -26,7 +26,7 @@ class Message extends CI_Model
 
 	public function add_subscriber($data)
 	{
-		$query="INSERT INTO subscribers
+		$query="INSERT INTO Subscribers
 						(Email)
 						VALUES (?)";
 

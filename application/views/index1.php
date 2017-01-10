@@ -93,7 +93,7 @@
             *************************************-->
             <div id="xp-homeslider" class="xp-homeslider xp-haslayout">
                 <figure class="item">
-                    <img src="assets/images/slider/communication-1927697_960_720.png" alt="image description">
+                    <img src="/assets/images/slider/communication-1927697_960_720.png" alt="image description">
                     <figcaption>
                         <div class="container">
                             <h1><strong>Simplify Procedures <span>with excel</span></strong></h1>
