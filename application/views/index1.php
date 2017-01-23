@@ -34,6 +34,24 @@
 
 
         <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Services",
+  "name": "Simplify Procedures",
+  "Title": "Simplify Procedures",
+  "Snippet":"Outsource excel work, Simplify procedures with excel, Data analysis",
+  "Sitelinks": "www.simplifyprocedures.com",
+  "url": "http://www.simplifyprocedures.com/"
+  "description": "Outsource excel work, Simplify procedures with excel, Data analysis"
+  }
+}
+</script>
+
+
+
+
     </head>
     <body>
 
@@ -95,8 +113,11 @@
                 <figure class="item">
                     <img src="/assets/images/slider/communication-1927697_960_720.png" alt="image description">
                     <figcaption>
-                        <div class="container">
-                            <h1><strong>Simplify Procedures <span>with excel</span></strong></h1>
+                        <div itemprop="name" class="container">
+                            <h1 itemprop="name" ><strong>Simplify Procedures <span itemprop="name" >with excel</span></strong></h1>
+                                <div class="xp-btnbox">
+                                <a class="xp-btn" href="#contact">Get a Quote Now</a>
+                            </div>
                         </div>
                     </figcaption>
                 </figure>
@@ -138,7 +159,7 @@
                             <div class="col-xs-12">
                                 <div class="xp-sectionhead">
 
-                                    <h1 class="wow fadeInDown" data-wow-delay="0.2s"><span>Outsource </span>your Excel Work!</h1>
+                                    <h1 itemprop="name" class="wow fadeInDown" data-wow-delay="0.2s"><span>Outsource </span>your Excel Work!</h1>
                                     <h2 class="wow fadeInDown" data-wow-delay="0.2s"><span> Our Services </span></h2>
 
                                    
@@ -149,10 +170,10 @@
                                     <div class="xp-fservice">
                                         <span class="xp-fserviceicon icon-scissors"></span>
                                         <div class="xp-fservicecontent">
-                                            <div class="xp-title">
+                                            <div itemscope class="xp-title">
                                                 <h4><span>Simplify</span> Procedures</h4>
                                             </div>
-                                            <div class="xp-description">
+                                            <div itemscope class="xp-description">
                                                 <p>We take existing process and simplify by automating procedures.</p>
                                             </div>
                                         </div>
@@ -163,9 +184,9 @@
                                         <span class="xp-fserviceicon icon-science"></span>
                                         <div class="xp-fservicecontent">
                                             <div class="xp-title">
-                                                <h4><span>Data</span> Analysis</h4>
+                                                <h4 itemscope ><span>Data</span> Analysis</h4>
                                             </div>
-                                            <div class="xp-description">
+                                            <div itemscope class="xp-description">
                                                 <p>Will summarize data and provide detailed analysis. </p>
                                             </div>
                                         </div>
@@ -176,9 +197,9 @@
                                         <span class="xp-fserviceicon icon-watercolor"></span>
                                         <div class="xp-fservicecontent">
                                             <div class="xp-title">
-                                                <h4><span>Excel</span> Dashboard</h4>
+                                                <h4 itemscope ><span>Excel</span> Dashboard</h4>
                                             </div>
-                                            <div class="xp-description">
+                                            <div itemscope class="xp-description">
                                                 <p>Creating interactive graphical representation of a process or data.  </p>
                                             </div>
                                         </div>
@@ -189,10 +210,10 @@
                                         <span class="xp-fserviceicon icon-learning-1"></span>
                                         <div class="xp-fservicecontent">
                                             <div class="xp-title">
-                                                <h4><span>New </span> Processes</h4>
+                                                <h4 itemscope ><span>New </span> Processes</h4>
                                             </div>
                                             <div class="xp-description">
-                                                <p>We will create procedure for new business process or activity that will accomplish organizational goal. </p>
+                                                <p itemscope >We will create procedure for new business process or activity that will accomplish organizational goal. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -202,9 +223,9 @@
                                         <span class="xp-fserviceicon icon-paper-plane"></span>
                                         <div class="xp-fservicecontent">
                                             <div class="xp-title">
-                                                <h4><span>Pivot tables &</span> Charts</h4>
+                                                <h4 itemscope><span itemscope></span>Pivot tables &</span> Charts</h4>
                                             </div>
-                                            <div class="xp-description">
+                                            <div itemscope class="xp-description">
                                                 <p>We use pivot tables and charts to create visual representation of data. Using filtering system to summarize data totals, counts, remove duplication. </p>
                                             </div>
                                         </div>
@@ -217,8 +238,8 @@
                                             <div class="xp-title">
                                                 <h4><span>Data Integrity </span> audit</h4>
                                             </div>
-                                            <div class="xp-description">
-                                                <p>Review and analyze data source to ensure data validity and integrity. </p>
+                                            <div itemscope class="xp-description">
+                                                <p itemscope>Review and analyze data source to ensure data validity and integrity. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -261,11 +282,14 @@
                                             <p> 
                                                 We guaranty our commitment to provide the highest  standards of data processing. 
                                             </p>
-                                            <p><strong>How it Works - </strong> <strong><span>3 simple steps</span> </strong></p>
+
+
+                                            <p><strong>How it Works - </strong> </p>
                                             <p>
                                                 Describe the procedure or process that needs to be simplified or analyzed. Give us your wish list. Receive first draft within 24 hours.
 
                                             </p>
+
                                         </div>
                                     </div>
                                 </div>
@@ -386,7 +410,8 @@
                         	<div class="col-xs-12">
                                 <div class="xp-sectionhead">
                                     <h2 class="wow fadeInDown" data-wow-delay="0.2s">Contact Us</h2>
-                                    <h3 class="wow fadeInDown" data-wow-delay="0.2s"><span>Get in </span>Touch</h3>
+                                    <h3 class="wow fadeInDown" data-wow-delay="0.2s"><span> Get in </span>Touch for a quote</h3>
+
                                 </div>
                             </div>
                         <div class="contact_wrap">
@@ -409,10 +434,10 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-12 col-xs-12">
-                                        <textarea class="form-control" name="message" placeholder="MESSAGE*" required></textarea>
+                                        <textarea class="form-control" name="message" placeholder="Tell us about your process to simplify and your wishlist*" required></textarea>
                                     </div>
                                     <div class="col-sm-4 col-md-2 col-xs-12">
-                                        <button class="xp-btn contact_now"> Send Message</button>
+                                        <button class="xp-btn contact_now"> Get A Quote</button>
                                     </div>
                                 </fieldset>
                             </form>
@@ -468,7 +493,7 @@
                                         </li>
                                         <li>
                                             <i class="fa fa-phone"></i>
-                                            <span>(415) 462-4599</span>
+                                            <span>702.583.5591</span>
                                         </li>
 
                                     </ul>
